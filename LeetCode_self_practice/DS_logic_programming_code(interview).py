@@ -46,7 +46,6 @@ print(df.head())
 # 6. Write a Python Program to Find the Second Largest Number in a List?
 # 6.Write a Python Program to Swap the First and Last Value of a List?
 # 6.Write a Python Program to Check if a String is a Palindrome or Not?
-# 6.Write a Python Program to Check if a String is a Palindrome or Not?
 # 7. Write a Python program to print set of duplicates in a list
 # 8. Write a Python program to print number of words in a given sentence                                    ***
 # 9. Given an array arr[] of n elements, write a Python function to search a given element x in arr[].
